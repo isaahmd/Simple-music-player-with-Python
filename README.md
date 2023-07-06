@@ -10,19 +10,15 @@ Harus Dilakukan
      Jika masi error silahkan run file .ipynb
      Jika tetap error silahkan ikuti cara di bawah ini
 
+
 Note (Dilakukan jika terjadi error saja)
 1. jika terdapat error "no such file or directory" silahkan rubah lokasi logo dan lagu pada source code sesuai lokasi  
    menyimpan
 
-	Rubah source code di bawah menjadi
- 	contoh:
+	Rubah source code di bawah menjadi:
  	file= 'c:\\...\\start.png' (sesuai lokasi menyimpan)
 
-		
-
-	Rubah source code di bawah menjadi
- 	contoh:
+	Rubah source code di bawah menjadi:
  	initialdir=''c:\\...\\lagu' (sesuai lokasi menyimpan)
-
 
 2. Jika terdpat error "TclError: image "pyimage2" doesn't exist" silahkan restart vscode
