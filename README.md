@@ -1,6 +1,8 @@
 # Simple-music-player-with-Python
 
-Harus Dilakukan  1. Install pygame (pip install pygame)
+Harus Dilakukan  
+
+1. Install pygame (pip install pygame)
 
 2. Install mutagen (pip install mutagen)
 
